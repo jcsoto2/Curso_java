@@ -1,0 +1,22 @@
+.success, .error {
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
+
+.card {
+    border-color: black;
+}
+
+.card-header {
+    background: rgb(135, 218, 235);
+    font-family: 'Times New Roman', Times, serif;
+}
